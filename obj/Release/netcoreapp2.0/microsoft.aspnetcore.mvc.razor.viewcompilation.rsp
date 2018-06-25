@@ -1,0 +1,5 @@
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=PhotonRoomServer
+--content-root=C:\Project\EverydayBaseballVRServer\PhotonRoomServer
+--file=

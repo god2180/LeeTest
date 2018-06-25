@@ -1,0 +1,11 @@
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\bin\Debug\netcoreapp2.0\PhotonRoomServer.deps.json
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\bin\Debug\netcoreapp2.0\PhotonRoomServer.runtimeconfig.json
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\bin\Debug\netcoreapp2.0\PhotonRoomServer.runtimeconfig.dev.json
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\bin\Debug\netcoreapp2.0\PhotonRoomServer.dll
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\obj\Debug\netcoreapp2.0\PhotonRoomServer.csprojAssemblyReference.cache
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\obj\Debug\netcoreapp2.0\PhotonRoomServer.csproj.CoreCompileInputs.cache
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\obj\Debug\netcoreapp2.0\PhotonRoomServer.AssemblyInfoInputs.cache
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\obj\Debug\netcoreapp2.0\PhotonRoomServer.AssemblyInfo.cs
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\bin\Debug\netcoreapp2.0\PhotonRoomServer.pdb
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\obj\Debug\netcoreapp2.0\PhotonRoomServer.dll
+C:\Project\EverydayBaseballVRServer\PhotonRoomServer\obj\Debug\netcoreapp2.0\PhotonRoomServer.pdb
